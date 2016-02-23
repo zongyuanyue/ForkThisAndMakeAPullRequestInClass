@@ -1,4 +1,4 @@
-# ForkThisAndMakeAPullRequestInClass
+# Fork this and make a pull request in class
 
 Too much chaos.
 
